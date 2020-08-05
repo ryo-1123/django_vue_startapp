@@ -24,3 +24,4 @@ pnpm-debug.log*
 # django
 __pycache__
 .env
+media
