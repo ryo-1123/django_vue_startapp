@@ -3,7 +3,7 @@
 """
 from django.db import models
 from django.utils import timezone
-from store.models import Store
+from store.models.store import Store
 
 class Item(models.Model):
     """
